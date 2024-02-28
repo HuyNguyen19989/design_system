@@ -1,0 +1,14 @@
+export { default as IconBlog } from './IconBlog';
+export { default as IconCalendar } from './IconCalendar';
+export { default as IconOrder } from './IconOrder';
+export { default as IconKanban } from './IconKanban';
+export { default as IconReplace } from './IconReplace';
+export { default as IconDashboard } from './IconDashboard';
+export { default as IconBanking } from './IconBanking';
+export { default as IconUser } from './IconUser';
+export { default as IconAnalytics } from './IconAnalytics';
+export { default as IconCourse } from './IconCourse';
+export { default as IconBooking } from './IconBooking';
+export { default as IconChat } from './IconChat';
+export { default as IconMail } from './IconMail';
+export { default as IconInvoice } from './IconInvoice';
